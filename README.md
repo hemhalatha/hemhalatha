@@ -1,7 +1,7 @@
 -👋 Hi, I’m @hemhalatha
 - 👀 I’m interested in data analysis, software development and block chain technology
 - 🌱 I’m currently learning data structures and algorithm, c programming.
-- 💞️ I’m looking to collaborate on like minlike-minded people
+- 💞️ I’m looking to collaborate on like-minded people
 - 📫 linkedin ID:https://www.likedin.com/in/v-r-hemhalatha-804634326
 - 😄 Pronouns: ...
 - ⚡ Fun fact:I'm a tech explorer

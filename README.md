@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithm, c programming.
 - 💞️ I’m looking to collaborate on like-minded people
 - 📫 linkedin ID:https://www.likedin.com/in/v-r-hemhalatha-804634326
-- 😄 Pronouns: ...
+- 😄 Pronouns: hemalatha
 - ⚡ Fun fact:I'm a tech explorer
 
 <!---

@@ -9,7 +9,10 @@ def sub(a,b):
 def mul(a,b):
     print(a*b)
 def div(a,b):
-    print(a//b)
+    if b!=0:
+        print(a//b)
+    else:
+        print("division by zero is not allowed")
 match x:
     case 1:
         print( add(a,b))
@@ -19,3 +22,5 @@ match x:
         mul(a,b)
     case 4:
         div(a,b)
+    case _:
+        print("invalid input")

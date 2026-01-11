@@ -1,41 +1,35 @@
-# Hemhalatha V R
+## Tech Enthusiast | Explorer | Innovator
 
-Computer Science Engineering student specializing in **AI/ML**, **full-stack development**, and **drone-based intelligent systems**.
+A curious learner who enjoys experimenting with tech and creating things that matter. Open to collaborations and learning new technologies.  
+Location: Chennai, India | Open to remote opportunities  
 
----
 
-## 🛠 Skills
+## Skills & Tools
 
-**Programming Languages:** Python, SQL, JavaScript, Java, C, C++  
-**AI / ML & NLP:** PyTorch, TensorFlow, OpenCV, YOLOv8, Scikit-learn, HuggingFace, LLMs, RAG, LangChain  
-**Frontend & Design:** HTML, CSS, React.js, Tailwind CSS, Flutter, Canva, Figma  
-**Backend & Databases:** Node.js, Express.js, Django (basic), Flask, MongoDB, SQLite, Firebase  
-**Tools & Platforms:** Git, GitHub, AWS, Vercel, VS Code, DroneKit, MAVLink, n8n  
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" /></a>
+<a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
+<a href="https://www.ros.org/"><img src="https://skillicons.dev/icons?i=ros" /></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+<a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+<a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" /></a>
 
----
 
-## 📂 Projects
+## Contact
 
-- **Notera – AI PDF Query & Notes System**  
-  LLM-based platform for querying PDFs and generating structured notes.  
-
-- **Medical Chatbot (RAG-based)**  
-  Chatbot using vector search and LLM reasoning for medical Q&A.  
-
-- **Drone-based Object Detection**  
-  Integrated YOLOv8 with drone navigation for real-time detection and precise payload dropping.  
-
----
-
-## 🏆 Achievements
-
-- **Aerothon 2025 Finalist** – National-level hackathon participation  
-- **LeetCode:** 800+ problems solved | Knight Badge | Top 6% globally  
-
----
-
-## 📫 Contact
-
-- **Email:** [hemhalathavr@gmail.com](mailto:hemhalathavr@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/v-r-hemhalatha-804634326](https://www.linkedin.com/in/v-r-hemhalatha-804634326/)  
-- **GitHub:** [github.com/hemhalatha](https://github.com/hemhalatha)
+Feel free to reach out via [email](mailto:hemhalathavr@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/v-r-hemhalatha-804634326/).  
+I’m open to collaboration, mentorship, or discussing interesting projects and opportunities.  

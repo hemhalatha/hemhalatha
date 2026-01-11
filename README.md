@@ -7,7 +7,6 @@ Location: Chennai, India | Open to remote opportunities
 ## Skills & Tools
 
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![SQL](https://skillicons.dev/icons?i=sql)](https://sqlite.org)
 [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![C](https://skillicons.dev/icons?i=c)](https://cplusplus.com)

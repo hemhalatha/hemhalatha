@@ -6,7 +6,7 @@ Location: Chennai, India | Open to remote opportunities
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,sql,js,java,c,cpp,ts,pytorch,tensorflow,opencv,react,tailwind,flutter,nodejs,express,django,flask,mongodb,firebase,git,github,aws,azure,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,ts,pytorch,tensorflow,opencv,react,tailwind,flutter,nodejs,express,django,flask,mongodb,firebase,git,github,aws,azure,vercel,vscode)](https://skillicons.dev)
 
 
 ## Contact

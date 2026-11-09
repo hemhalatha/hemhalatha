@@ -18,7 +18,6 @@
 
 </div>
 
-
 ## Experience
 
 <table width="100%">
@@ -26,19 +25,32 @@
     <td width="50%" valign="top">
       <sub>JUN – AUG 2026</sub>
       <h3>Cognizant Technology Solutions</h3>
-      <strong>Summer Intern · Enterprise AI</strong>
-      <p>Worked on RAG and agent workflows, including intent routing, query rewriting, multi-agent orchestration and speech interfaces.</p>
-      <p><code>LangGraph</code> <code>LangChain</code> <code>Azure</code></p>
+      <strong>Summer Intern</strong>
+      <img src="https://placehold.co/450x1/ffffff/ffffff.png" width="500" height="1" alt="" />
+      <p>
+        <code>Agentic AI</code>
+        <code>RAG</code>
+        <code>Azure</code>
+        <code>Azure DevOps</code>
+      </p>
     </td>
     <td width="50%" valign="top">
       <sub>JUN – JUL 2025</sub>
-      <h3>Center of Defense and Space Research, CIT</h3>
-      <strong>AI/ML Intern · Autonomous Systems</strong>
-      <p>Built and tested drone-vision workflows involving YOLOv8, synthetic data, SITL simulation and mission planning.</p>
-      <p><code>YOLOv8</code> <code>OpenCV</code> <code>SITL</code></p>
+      <h3>Centre of Defence and Space Research, CIT</h3>
+      <strong>AI/ML Intern </strong>
+      <img src="https://placehold.co/450x1/ffffff/ffffff.png" width="500" height="1" alt="" />
+      <p>
+        <code>YOLOv8</code>
+        <code>OpenCV</code>
+        <code>PyMAVLink</code>
+        <code>SITL</code>
+        <code>Mission Planning</code>
+      </p>
     </td>
   </tr>
 </table>
+
+
 
 ## Engineering toolkit
 

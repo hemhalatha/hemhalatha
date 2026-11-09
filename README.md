@@ -1,13 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,55:20080D,100:8B0000&height=190&section=header&text=HEMHALATHA%20V%20R&fontSize=50&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20INTELLIGENT%20SYSTEMS%20%2F%20AI&descSize=13&descAlignY=68&descColor=E8BFC5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,55:20080D,100:8B0000&height=190&section=header&text=HEMHALATHA%20V%20R&fontSize=50&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20ENGINEERING%20%7C%20APPLIED%20AI%20%7C%20SCALABLE%20SYSTEMS&descSize=13&descAlignY=68&descColor=E8BFC5" width="100%" />
 
 <br/>
 
 ### Building Intelligent Software. Engineering Real-World Solutions.
-
-**Software Engineering** · **Full-Stack Development** · **AI/ML & Agentic Systems** · **Distributed Computing**
 
 
 <br/>
@@ -28,6 +26,7 @@
 </div>
 
 ---
+
 
 
 ## 01 — ABOUT
@@ -199,6 +198,23 @@ Contributed three merged pull requests to AegisAI, working on authentication har
   - Claude Architect — Foundations (CCAR-F)
   - Claude Architect — Professional (CCAR-P)
 - **Cisco** — Data Science, CCNA, IoT & Digital Transformation
+---
+
+## 07 / PROBLEM SOLVING
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Hemhalatha_15_/">
+  <img src="https://leetcard.jacoblin.cool/Hemhalatha_15_?theme=dark&font=Inter&ext=contest" width="75%" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.hackerrank.com/profile/hemhalathavr_cs1">
+  <img src="https://img.shields.io/badge/HackerRank-5%20Star%20C%2B%2B-8B0000?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+</div>
 
 ---
 

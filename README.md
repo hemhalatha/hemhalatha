@@ -1,32 +1,228 @@
-## Tech Enthusiast | Explorer | Innovator
 
-A curious learner who enjoys experimenting with tech and creating things that matter. Open to collaborations and learning new technologies.  
-Location: Chennai, India | Open to remote opportunities  
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,55:20080D,100:8B0000&height=190&section=header&text=HEMHALATHA%20V%20R&fontSize=50&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20INTELLIGENT%20SYSTEMS%20%2F%20AI&descSize=13&descAlignY=68&descColor=E8BFC5" width="100%" />
 
-## Skills & Tools
+<br/>
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![C](https://skillicons.dev/icons?i=c)](https://cplusplus.com)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![TS](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+### Building Intelligent Software. Engineering Real-World Solutions.
+
+**Software Engineering** · **Full-Stack Development** · **AI/ML & Agentic Systems** · **Distributed Computing**
 
 
-## Contact
+<br/>
 
-Feel free to reach out via [email](mailto:hemhalathavr@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/v-r-hemhalatha-804634326/).  
-I’m open to collaboration, mentorship, or discussing interesting projects and opportunities.  
+<a href="mailto:hemhalathavr@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B0000?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/v-r-hemhalatha-804634326/">
+<img src="https://img.shields.io/badge/LINKEDIN-161616?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Hemhalatha_15_/">
+<img src="https://img.shields.io/badge/LEETCODE-161616?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://github.com/hemhalatha">
+<img src="https://img.shields.io/badge/GITHUB-161616?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+
+## 01 — ABOUT
+
+I'm a Computer Science and Engineering undergraduate at **Chennai Institute of Technology**, focused on building scalable software applications and intelligent systems.
+
+My experience spans **full-stack development, AI/ML, computer vision, and Agentic AI**, with hands-on work ranging from enterprise AI workflows and RAG-based systems to autonomous drone applications and data-driven platforms.
+
+I enjoy solving engineering problems across the stack—designing backend architectures, developing APIs, integrating machine learning models, and exploring how distributed systems and emerging AI technologies can create practical solutions.
+
+**Education**  
+B.E. Computer Science and Engineering · Chennai Institute of Technology · 2024–2028
+
+**Industry Experience**  
+Summer Intern · Cognizant Technology Solutions
+
+**Technical Experience**  
+AI/ML Intern · Centre of Defence and Space Research, Chennai Institute of Technology
+
+**Problem Solving**  
+LeetCode Knight · 2057 Contest Rating · Top 2% · 1000+ Problems Solved
+
+**Areas of Interest**  
+Agentic AI · Backend Engineering · System Design · Cloud Computing · Distributed Systems
+
+
+---
+
+## 02 — PROFESSIONAL EXPERIENCE
+
+### Cognizant Technology Solutions
+**Summer Intern** | June 2026 – August 2026
+
+- Worked on enterprise **Agentic AI and RAG workflows** using LangChain and LangGraph.
+- Explored retrieval pipelines, LLM-based query rewriting, intent routing, agent delegation, and structured response generation.
+- Integrated Speech-to-Text, Text-to-Speech, and multi-agent workflows for automated request processing.
+- Worked with Azure and Azure DevOps for system integration and cloud deployment workflows.
+
+### Centre of Defence and Space Research — Chennai Institute of Technology
+**AI/ML Intern** | June 2025 – July 2025
+
+- Developed computer vision systems using **Python, OpenCV, and YOLOv8** for autonomous drone delivery and flood-rescue applications.
+- Worked on synthetic data generation, target detection, and visual alignment for precision landing.
+- Conducted Software-in-the-Loop simulations and autonomous flight mission planning.
+- Participated in flight testing, navigation accuracy evaluation, and mission execution.
+
+---
+
+## 03 — ENGINEERING PROJECTS
+
+Projects focused on intelligent applications, autonomous systems, and practical software engineering.
+
+### 01. Road Defect Complaint Routing
+<sub>ML-POWERED CIVIC TECHNOLOGY PLATFORM</sub>
+
+<a href="https://github.com/hemhalatha/Road_safety">↗ Explore Repository</a>
+
+An ML-powered platform that verifies road-defect submissions, classifies road conditions, validates GPS locations, and routes complaints to the appropriate road authority.
+
+**Key Engineering Contributions**
+- Trained a YOLOv8 classification model on approximately 3,500 road-condition images.
+- Integrated image classification with GPS validation and complaint-routing workflows.
+- Developed backend services using Express.js and incorporated OpenStreetMap.
+
+**Model Performance**
+
+| Top-1 Accuracy | Top-5 Accuracy |
+|:---:|:---:|
+| **96.99%** | **100%** |
+
+`Python` `YOLOv8` `Express.js` `OpenStreetMap`
+
+---
+
+### 02. Autonomous Drone Delivery System
+<sub>SAEINDIA ADDC 2026 · AUTONOMOUS UAV SYSTEMS</sub>
+
+<a href="https://github.com/hemhalatha/ADDC">↗ Explore Repository</a>
+
+An autonomous UAV delivery system designed for last-mile delivery in hard-to-reach areas through visual target detection, precision landing, and return-to-launch operations.
+
+**Key Engineering Contributions**
+- Implemented target detection and visual processing using YOLOv8 and OpenCV.
+- Integrated computer vision with UAV communication using PyMAVLink.
+- Worked on autonomous mission execution, precision landing, and RTL workflows.
+- Evaluated the detection model across 388 target-area instances.
+
+**Detection Performance**
+
+| Precision | Recall | mAP@50 |
+|:---:|:---:|:---:|
+| **82.18%** | **89.16%** | **84.08%** |
+
+`Python` `YOLOv8` `OpenCV` `PyMAVLink`
+
+---
+
+### 03. BambooTrace
+<sub>SUPPLY CHAIN TRACEABILITY & DIGITAL PLATFORM</sub>
+
+<a href="https://github.com/hemhalatha/Bamboo_Trace">↗ Explore Repository</a>
+
+A digital traceability platform designed to track products, provenance, inventory, orders, and handovers across the supply chain—from farmers to artisans to customers.
+
+**Key Engineering Contributions**
+- Developed REST APIs using FastAPI and PostgreSQL.
+- Implemented role-based access and JWT authentication.
+- Designed inventory, order management, and product traceability workflows.
+- Containerized application services using Docker.
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `Flutter`
+
+---
+
+## 04 — TECHNICAL EXPERTISE
+
+**Programming & Computer Science**
+
+`C++` `Python` `JavaScript` `SQL` `Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
+
+**AI / ML & Computer Vision**
+
+`Machine Learning` `Deep Learning` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `OpenCV` `YOLOv8`
+
+**Generative AI & Agentic Systems**
+
+`LLMs` `RAG` `Agentic AI` `LangChain` `LangGraph` `FAISS` `Hugging Face` `Sentence Transformers` `MCP` `Gemini` `Claude`
+
+**Full-Stack & Backend Engineering**
+
+`React.js` `Node.js` `Express.js` `FastAPI` `Flask` `Flutter` `REST APIs` `Microservices`
+
+**Databases, Cloud & DevOps**
+
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite` `Firebase` `Azure` `AWS` `Azure DevOps` `Docker` `Git` `Linux`
+
+**System Design & Distributed Computing**
+
+`Apache Kafka` `Distributed Systems` `Caching` `Load Balancing` `Database Sharding`
+
+---
+
+## 05 — ACHIEVEMENTS & RECOGNITION
+
+| Achievement | Recognition |
+|---|---|
+| LeetCode | **Knight · 2057 Contest Rating · Top 2% · 1000+ Solved** |
+| HackerRank | **5-Star C++ Coder** |
+| ICPC Asia West Amritapuri | **Campus Ambassador · 2026** |
+| GSSoC 2026 | Contributor · 3 merged PRs to AegisAI |
+| Odoo Hackathon 2026 | Finalist |
+| Aerothon 2025 | Top 10 Finalist |
+| SAEINDIA ADDC 2026 | Technical Presentation Podium Finish |
+| Internshala | Student Partner |
+
+**Open-Source Contributions — GSSoC 2026**
+
+Contributed three merged pull requests to AegisAI, working on authentication hardening, validation, and NIST mapping.
+
+---
+
+## 06 — CERTIFICATIONS & LEARNING
+
+- **Google × AICTE** — 10-Week AI/ML Virtual Internship · Grade Excellent (E)
+- **NPTEL** — Data Analytics with Python · 85% · Top 5%
+- **NPTEL** — Introduction to Internet of Things · 84%
+- **Anthropic Claude Certifications**
+  - Claude Developer — Foundations (CCDV-F)
+  - Claude Architect — Foundations (CCAR-F)
+  - Claude Architect — Professional (CCAR-P)
+- **Cisco** — Data Science, CCNA, IoT & Digital Transformation
+
+---
+
+<div align="center">
+
+## LET'S CONNECT & BUILD
+
+Interested in software engineering, AI/ML, and building technology that makes a difference.
+
+**Open to Internship and Full-Time Opportunities**
+
+<br/>
+
+<a href="mailto:hemhalathavr@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/v-r-hemhalatha-804634326/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Built with curiosity, consistency, and a passion for engineering.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:080808&height=65&section=footer" width="100%" />
+
+</div>

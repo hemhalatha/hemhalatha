@@ -7,13 +7,12 @@
 
 ### Building Intelligent Software. Engineering Real-World Solutions.
 
-
 <br/>
 
 <a href="mailto:hemhalathavr@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-8B0000?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/v-r-hemhalatha-804634326/">
+<a href="https://www.linkedin.com/in/v-r-hemalatha-804634326/">
 <img src="https://img.shields.io/badge/LINKEDIN-161616?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Hemhalatha_15_/">
@@ -27,9 +26,7 @@
 
 ---
 
-
-
-## 01 — ABOUT
+## ABOUT ME
 
 I'm a Computer Science and Engineering undergraduate at **Chennai Institute of Technology**, focused on building scalable software applications and intelligent systems.
 
@@ -52,10 +49,9 @@ LeetCode Knight · 2057 Contest Rating · Top 2% · 1000+ Problems Solved
 **Areas of Interest**  
 Agentic AI · Backend Engineering · System Design · Cloud Computing · Distributed Systems
 
-
 ---
 
-## 02 — PROFESSIONAL EXPERIENCE
+## EXPERIENCE
 
 ### Cognizant Technology Solutions
 **Summer Intern** | June 2026 – August 2026
@@ -75,7 +71,7 @@ Agentic AI · Backend Engineering · System Design · Cloud Computing · Distrib
 
 ---
 
-## 03 — ENGINEERING PROJECTS
+## SELECTED PROJECTS
 
 Projects focused on intelligent applications, autonomous systems, and practical software engineering.
 
@@ -141,7 +137,7 @@ A digital traceability platform designed to track products, provenance, inventor
 
 ---
 
-## 04 — TECHNICAL EXPERTISE
+## TECHNICAL SKILLS
 
 **Programming & Computer Science**
 
@@ -169,7 +165,7 @@ A digital traceability platform designed to track products, provenance, inventor
 
 ---
 
-## 05 — ACHIEVEMENTS & RECOGNITION
+## ACHIEVEMENTS & LEADERSHIP
 
 | Achievement | Recognition |
 |---|---|
@@ -188,7 +184,7 @@ Contributed three merged pull requests to AegisAI, working on authentication har
 
 ---
 
-## 06 — CERTIFICATIONS & LEARNING
+## CERTIFICATIONS
 
 - **Google × AICTE** — 10-Week AI/ML Virtual Internship · Grade Excellent (E)
 - **NPTEL** — Data Analytics with Python · 85% · Top 5%
@@ -198,9 +194,10 @@ Contributed three merged pull requests to AegisAI, working on authentication har
   - Claude Architect — Foundations (CCAR-F)
   - Claude Architect — Professional (CCAR-P)
 - **Cisco** — Data Science, CCNA, IoT & Digital Transformation
+
 ---
 
-## 07 / PROBLEM SOLVING
+## CODING PROFILES
 
 <div align="center">
 
@@ -231,7 +228,7 @@ Interested in software engineering, AI/ML, and building technology that makes a 
 <a href="mailto:hemhalathavr@gmail.com">
 <img src="https://img.shields.io/badge/LET'S%20TALK-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/v-r-hemhalatha-804634326/">
+<a href="https://www.linkedin.com/in/v-r-hemalatha-804634326/">
 <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

@@ -18,38 +18,6 @@
 
 </div>
 
-## Featured work
-
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <sub>ML · CIVIC TECH</sub>
-      <h3><a href="https://github.com/hemhalatha/Road_safety">Road Defect Routing</a></h3>
-      <p>Road-condition classification, GPS validation and automated complaint routing.</p>
-      <p><code>YOLOv8</code> <code>Express.js</code> <code>OpenStreetMap</code></p>
-      <a href="https://github.com/hemhalatha/Road_safety"><b>VIEW PROJECT ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>DEEP LEARNING · AUTONOMOUS SYSTEMS</sub>
-      <h3><a href="https://github.com/hemhalatha/ADDC">Autonomous Drone Delivery</a></h3>
-      <p>QR-based payload identification and vision-guided UAV precision landing.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>PyMAVLink</code></p>
-      <a href="https://github.com/hemhalatha/ADDC"><b>VIEW PROJECT ↗</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <sub>FULL-STACK · SUPPLY CHAIN</sub>
-      <h3><a href="https://github.com/hemhalatha/Bamboo_Trace">BambooTrace — Supply Chain Traceability</a></h3>
-      <p>End-to-end product traceability, inventory management and order workflows with role-based access.</p>
-      <p><code>Flutter</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code></p>
-      <a href="https://github.com/hemhalatha/Bamboo_Trace"><b>VIEW PROJECT ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-
 
 ## Experience
 

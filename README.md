@@ -5,9 +5,9 @@
 
 <br/>
 
-### Building Intelligent Software. Engineering Real-World Solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3500&pause=1000&color=E8BFC5&center=true&vCenter=true&width=650&lines=Building+Intelligent+Software.+Engineering+Real-World+Solutions." alt="Building Intelligent Software. Engineering Real-World Solutions." />
 
-<br/>
+<br/><br/>
 
 <a href="mailto:hemhalathavr@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-8B0000?style=flat-square&logo=gmail&logoColor=white" />
@@ -26,7 +26,9 @@
 
 ---
 
-## ABOUT ME
+<h2 align="left">ABOUT ME</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 I'm a Computer Science and Engineering undergraduate at **Chennai Institute of Technology**, focused on building scalable software applications and intelligent systems.
 
@@ -51,7 +53,9 @@ Agentic AI · Backend Engineering · System Design · Cloud Computing · Distrib
 
 ---
 
-## EXPERIENCE
+<h2 align="left">EXPERIENCE</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 ### Cognizant Technology Solutions
 **Summer Intern** | June 2026 – August 2026
@@ -71,7 +75,9 @@ Agentic AI · Backend Engineering · System Design · Cloud Computing · Distrib
 
 ---
 
-## SELECTED PROJECTS
+<h2 align="left">SELECTED PROJECTS</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 Projects focused on intelligent applications, autonomous systems, and practical software engineering.
 
@@ -95,7 +101,7 @@ An ML-powered platform that verifies road-defect submissions, classifies road co
 
 `Python` `YOLOv8` `Express.js` `OpenStreetMap`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:20080D&height=1" width="100%" />
 
 ### 02. Autonomous Drone Delivery System
 <sub>SAEINDIA ADDC 2026 · AUTONOMOUS UAV SYSTEMS</sub>
@@ -118,7 +124,7 @@ An autonomous UAV delivery system designed for last-mile delivery in hard-to-rea
 
 `Python` `YOLOv8` `OpenCV` `PyMAVLink`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:20080D&height=1" width="100%" />
 
 ### 03. BambooTrace
 <sub>SUPPLY CHAIN TRACEABILITY & DIGITAL PLATFORM</sub>
@@ -137,7 +143,9 @@ A digital traceability platform designed to track products, provenance, inventor
 
 ---
 
-## TECHNICAL SKILLS
+<h2 align="left">TECHNICAL SKILLS</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 **Programming & Computer Science**
 
@@ -165,7 +173,9 @@ A digital traceability platform designed to track products, provenance, inventor
 
 ---
 
-## ACHIEVEMENTS & LEADERSHIP
+<h2 align="left">ACHIEVEMENTS & LEADERSHIP</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 | Achievement | Recognition |
 |---|---|
@@ -184,7 +194,9 @@ Contributed three merged pull requests to AegisAI, working on authentication har
 
 ---
 
-## CERTIFICATIONS
+<h2 align="left">CERTIFICATIONS</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 - **Google × AICTE** — 10-Week AI/ML Virtual Internship · Grade Excellent (E)
 - **NPTEL** — Data Analytics with Python · 85% · Top 5%
@@ -197,7 +209,9 @@ Contributed three merged pull requests to AegisAI, working on authentication har
 
 ---
 
-## CODING PROFILES
+<h2 align="left">CODING PROFILES</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2" width="65" />
 
 <div align="center">
 

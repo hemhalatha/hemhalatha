@@ -75,7 +75,7 @@
       <strong>Competitive Programming</strong>
       <p>
         <b>LeetCode Knight</b> · 2057 Rating · Top 2% · 1000+ Solved<br/>
-        <b>HackerRank 5★</b> in C++
+        <b>HackerRank </b>5 star coder in C++
       </p>
     </td>
     <td width="50%" valign="top">

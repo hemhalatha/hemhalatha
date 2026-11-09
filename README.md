@@ -20,35 +20,36 @@
 
 ## Featured work
 
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / ML + CIVIC TECH</sub>
+      <sub>ML · CIVIC TECH</sub>
       <h3><a href="https://github.com/hemhalatha/Road_safety">Road Defect Routing</a></h3>
-      <p>Verified road-damage reports using image classification and location-aware routing to responsible authorities.</p>
-      <p><strong>96.99% Top-1</strong> · <strong>3.5K+ images</strong></p>
+      <p>Road-condition classification, GPS validation and automated complaint routing.</p>
       <p><code>YOLOv8</code> <code>Express.js</code> <code>OpenStreetMap</code></p>
-      <p><a href="https://github.com/hemhalatha/Road_safety"><b>View repository →</b></a></p>
+      <a href="https://github.com/hemhalatha/Road_safety"><b>VIEW PROJECT ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / AUTONOMOUS SYSTEMS</sub>
+      <sub>DEEP LEARNING · AUTONOMOUS SYSTEMS</sub>
       <h3><a href="https://github.com/hemhalatha/ADDC">Autonomous Drone Delivery</a></h3>
-      <p>Computer-vision-guided UAV missions with target detection, visual alignment, MAVLink control and return-to-launch logic.</p>
-      <p><strong>84.08% mAP@50</strong> · <strong>89.16% recall</strong></p>
+      <p>QR-based payload identification and vision-guided UAV precision landing.</p>
       <p><code>Python</code> <code>OpenCV</code> <code>PyMAVLink</code></p>
-      <p><a href="https://github.com/hemhalatha/ADDC"><b>View repository →</b></a></p>
+      <a href="https://github.com/hemhalatha/ADDC"><b>VIEW PROJECT ↗</b></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <sub>03 / FULL-STACK PLATFORM</sub>
+      <sub>FULL-STACK · SUPPLY CHAIN</sub>
       <h3><a href="https://github.com/hemhalatha/Bamboo_Trace">BambooTrace — Supply Chain Traceability</a></h3>
-      <p>Farmer-to-customer product provenance, inventory and order workflows, backed by JWT-secured role-based APIs.</p>
+      <p>End-to-end product traceability, inventory management and order workflows with role-based access.</p>
       <p><code>Flutter</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code></p>
-      <p><a href="https://github.com/hemhalatha/Bamboo_Trace"><b>View repository →</b></a></p>
+      <a href="https://github.com/hemhalatha/Bamboo_Trace"><b>VIEW PROJECT ↗</b></a>
     </td>
   </tr>
 </table>
+
+
 
 ## Experience
 

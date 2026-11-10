@@ -2,7 +2,7 @@
 <div align="center">
 
 # HEMHALATHA V R
-<sub>FULL-STACK DEVELOPMENT &nbsp;·&nbsp; APPLIED AI &nbsp;·&nbsp; AGENTIC SYSTEMS</sub>
+<sub>SOFTWARE DEVELOPMENT &nbsp;·&nbsp; SCALABLE SYSTEMS &nbsp;·&nbsp; AI-POWERED SOLUTIONS</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=D4D4D8&center=true&vCenter=true&width=650&height=30&lines=Full-stack+engineering+%C2%B7+Enterprise+AI+%C2%B7+Computer+vision;Turning+prototypes+into+reliable%2C+usable+systems" />
@@ -57,21 +57,23 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>AI / Agents</strong>
+      <img src="https://placehold.co/450x1/ffffff/ffffff.png" width="500" height="1" alt="" />
+      <strong>AI / ML</strong>
       <p>LangGraph · LangChain · RAG · FAISS · MCP · PyTorch · YOLOv8</p>
     </td>
     <td width="50%" valign="top">
-      <strong>Applications / APIs</strong>
+      <img src="https://placehold.co/450x1/ffffff/ffffff.png" width="500" height="1" alt="" />
+      <strong>Full Stack</strong>
       <p>Python · C++ · Java · JavaScript · React · FastAPI · Express · Flutter</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Data / Cloud</strong>
-      <p>PostgreSQL · MySQL · MongoDB · Redis · Kafka · Docker · Azure · AWS</p>
+      <strong>Database / Cloud</strong>
+      <p>PostgreSQL · MySQL · MongoDB · Redis · Docker · Azure · AWS</p>
     </td>
     <td width="50%" valign="top">
-      <strong>Foundations</strong>
+      <strong>CS Foundations</strong>
       <p>DSA · OOP · DBMS · Operating Systems · Networking · Linux · Git</p>
     </td>
   </tr>
